@@ -6,4 +6,6 @@
 Simple linux distro you can run with qemu
 
 Just download the latest release and enter in the Terminal: 
-# qemu-system-x86_64 linux<version>
+~~~
+qemu-system-x86_64 linux<version>
+~~~
